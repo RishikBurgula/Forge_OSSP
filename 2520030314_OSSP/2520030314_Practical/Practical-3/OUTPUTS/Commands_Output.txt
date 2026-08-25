@@ -43,3 +43,6 @@ MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7245.5 avai
     386 rishik    20   0   22364  13596  10984 S   0.0   0.2
     388 rishik    20   0   22908   4080   2080 S   0.0   0.1
     420 rishik    20   0    6136   5492   3928 S   0.0   0.1
+
+rishik@RISHIK:~$ /proc
+-bash: /proc: Is a directory
