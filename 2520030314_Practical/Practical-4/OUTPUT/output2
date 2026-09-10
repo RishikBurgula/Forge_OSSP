@@ -1,1 +1,12 @@
-
+Parent process 1354
+Child Process 1355
+parent process completed
+zombie process before completion:
+F S   UID     PID    PPID  C PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
+1 Z  1000    1355    1354  0  80   0 -     0 -      pts/0    00:00:00 a.out
+After removing Zombie Process:
+Parent process 1419
+Child Process 1420
+parent process completed
+No zombie Process:
+F S   UID     PID    PPID  C PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
