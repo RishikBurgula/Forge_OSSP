@@ -1,1 +1,6 @@
-
+Chid 1 pid=983
+Chid 2 pid=984
+Chid 3 pid=985
+Parent: One child is completed with wait()
+Parent: child 3 is completed with waitpid()
+Parent: All the childs are completed
